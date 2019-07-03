@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material design views measures -->
+    <dimen name="measure_view_no_measure">0dp</dimen>
+    <dimen name="measure_view_8_dp">8dp</dimen>
+    <dimen name="measure_view_16_dp">16dp</dimen>
+    <dimen name="measure_view_24_dp">24dp</dimen>
+    <dimen name="measure_view_32_dp">32dp</dimen>
+    <dimen name="measure_view_40_dp">40dp</dimen>
+    <dimen name="measure_view_48_dp">48dp</dimen>
+    <dimen name="measure_view_56_dp">56dp</dimen>
+    <dimen name="measure_view_64_dp">64dp</dimen>
+    <dimen name="measure_view_72_dp">72dp</dimen>
+    <dimen name="measure_view_80_dp">80dp</dimen>
+
+    <!-- Materian design icon/typography measures -->
+    <dimen name="measure_extras_no_measure">0dp</dimen>
+    <dimen name="measure_extras_4_dp">4dp</dimen>
+    <dimen name="measure_extras_8_dp">8dp</dimen>
+    <dimen name="measure_extras_12_dp">12dp</dimen>
+    <dimen name="measure_extras_16_dp">16dp</dimen>
+    <dimen name="measure_extras_20_dp">20dp</dimen>
+    <dimen name="measure_extras_24_dp">24dp</dimen>
+    <dimen name="measure_extras_28_dp">28dp</dimen>
+    <dimen name="measure_extras_32_dp">32dp</dimen>
+    <dimen name="measure_extras_36_dp">36dp</dimen>
+    <dimen name="measure_extras_40_dp">40dp</dimen>
+    <dimen name="measure_extras_44_dp">44dp</dimen>
+    <dimen name="measure_extras_48_dp">48dp</dimen>
+    <dimen name="measure_extras_52_dp">52dp</dimen>
+    <dimen name="measure_extras_56_dp">56dp</dimen>
+    <dimen name="measure_extras_60_dp">60dp</dimen>
+</resources>

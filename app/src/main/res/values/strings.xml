@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VitaLift</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login_sign_up_title">SIGN UP</string>
+    <string name="login_intro_description">Login or Sign up to start using VidaLift</string>
+    <string name="login_sign_in_title">Sign in with</string>
+    <string name="login_existing_user_title">Already have a user?</string>
+</resources>
